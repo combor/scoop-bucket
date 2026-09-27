@@ -1,0 +1,15 @@
+{
+    "version": "0.6.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/combor/baryon-mcp/releases/download/v0.6.3/baryon-mcp_0.6.3_windows_amd64.zip",
+            "bin": [
+                "baryon-mcp.exe"
+            ],
+            "hash": "c6d44c68a4fb985fba3c6c3664611da76722d504aa79655efa19cb92d9896fe5"
+        }
+    },
+    "homepage": "https://github.com/combor/baryon-mcp",
+    "license": "BSD-3-Clause",
+    "description": "Read Proton Mail and save drafts through your local Proton Mail Bridge."
+}
