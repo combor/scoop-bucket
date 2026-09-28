@@ -1,0 +1,18 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/combor/magnetowid/releases/download/v0.2.1/magnetowid_0.2.1_windows_amd64.zip",
+            "bin": [
+                "magnetowid.exe"
+            ],
+            "hash": "413272ff579f1c950d305a76e89853ad7effb7ea7fd7db97603ae323a28f0d5a"
+        }
+    },
+    "homepage": "https://github.com/combor/magnetowid",
+    "license": "BSD-3-Clause",
+    "description": "Downloads movies and series from video-on-demand sites for Sonarr and Radarr.",
+    "depends": [
+        "ffmpeg"
+    ]
+}
