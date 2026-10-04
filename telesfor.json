@@ -1,0 +1,18 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/combor/telesfor/releases/download/v0.2.1/telesfor_0.2.1_windows_amd64.zip",
+            "bin": [
+                "telesfor.exe"
+            ],
+            "hash": "9da2ba29975aff5d62dba7d70c634fb21b5d2420840b5b47d5bd3f40839509e5"
+        }
+    },
+    "homepage": "https://github.com/combor/telesfor",
+    "license": "BSD-3-Clause",
+    "description": "Live TV from streaming services in Plex, as a virtual HDHomeRun tuner.",
+    "depends": [
+        "ffmpeg"
+    ]
+}
