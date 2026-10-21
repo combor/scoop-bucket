@@ -1,12 +1,12 @@
 {
-    "version": "0.3.4",
+    "version": "0.3.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/combor/telesfor/releases/download/v0.3.4/telesfor_0.3.4_windows_amd64.zip",
+            "url": "https://github.com/combor/telesfor/releases/download/v0.3.5/telesfor_0.3.5_windows_amd64.zip",
             "bin": [
                 "telesfor.exe"
             ],
-            "hash": "8ed9a747412e6182dfd06ddf65e71767d7410a4022a5bff4a475d80b9994bf56"
+            "hash": "e2f310f90e1982dd7b0da7d2002140e298946cbdd71e52d3689020cda9d2750f"
         }
     },
     "homepage": "https://github.com/combor/telesfor",
