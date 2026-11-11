@@ -1,12 +1,12 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/combor/baryon-mcp/releases/download/v0.7.0/baryon-mcp_0.7.0_windows_amd64.zip",
+            "url": "https://github.com/combor/baryon-mcp/releases/download/v0.7.1/baryon-mcp_0.7.1_windows_amd64.zip",
             "bin": [
                 "baryon-mcp.exe"
             ],
-            "hash": "bebe0cab4fba7b3bb404d284d15528321b0444383df929e5cf867667c6bc9df3"
+            "hash": "5b88c8033c7606c3496ac801022821e82c9c6f85407b5bae01311403ccbbaaec"
         }
     },
     "homepage": "https://github.com/combor/baryon-mcp",
