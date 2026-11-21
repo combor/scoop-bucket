@@ -1,12 +1,12 @@
 {
-    "version": "0.4.5",
+    "version": "0.4.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/combor/magnetowid/releases/download/v0.4.5/magnetowid_0.4.5_windows_amd64.zip",
+            "url": "https://github.com/combor/magnetowid/releases/download/v0.4.6/magnetowid_0.4.6_windows_amd64.zip",
             "bin": [
                 "magnetowid.exe"
             ],
-            "hash": "79adc83c55996eeb0d8469ef24b63f97050a6677142f464a50a4cd61c09d118e"
+            "hash": "771e291dd05539d4bb47373a7cbd9d827abdbcf9eda9c1209670263017a07f2f"
         }
     },
     "homepage": "https://github.com/combor/magnetowid",
